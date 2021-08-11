@@ -45,10 +45,10 @@ metadata = {
 			  "value": 1
 			}
 	  ], 
-	  "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.", 
+	  "description": "Bushido Track NFT issued by Crowdible", 
 	  "external_url": "https://openseacreatures.io/3", 
-	  "image": "https://storage.googleapis.com/opensea-prod.appspot.com/creature/3.png", 
-	  "name": "Dave Starbelly"
+	  "image": "https://i.scdn.co/image/ab67616d0000b273d1308737f63cd92983d6811b", 
+	  "name": "King Sonny Black - Bushido"
 	},
 	2: {
 		"attributes": [
