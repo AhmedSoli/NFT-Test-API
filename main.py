@@ -146,7 +146,7 @@ metadata = {
 	}	
 }
 
-@app.get("/tokens/{tokenId}")
+@app.get("/creature/{tokenId}")
 def hello(tokenId : str):
 	if tokenId in metadata:
 		return metadata[int(tokenId)]
