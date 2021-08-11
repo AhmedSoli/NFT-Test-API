@@ -147,8 +147,8 @@ metadata = {
 }
 
 @app.get("/tokens/{tokenId}")
-def hello(tokenId : int):
+def hello(tokenId : str):
 	if tokenId in metadata:
-		return metadata[tokenId]
+		return metadata[int(tokenId)]
 	else:
 		return metadata[1]
